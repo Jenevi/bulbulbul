@@ -6,6 +6,10 @@ Created by София Лозовая (Sofia Lozovaya). [MIT License](LICENSE).
 
 Bulbulbul is a desktop tool for annotating observations of animal interactions. It uses manually entered transition timestamps to calculate time spent in three mutually exclusive states. Define the states for your study and record the transitions as you review your observations.
 
+## Interface
+
+![Bulbulbul application interface](docs/images/bulbulbul-screenshot.png)
+
 ## Run
 
 Download the archive for your platform from [Releases](https://github.com/Jenevi/bulbulbul/releases) and extract the entire folder. The bundles include the Python runtime.
